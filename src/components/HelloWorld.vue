@@ -57,6 +57,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style lang="scss" scoped>
 #list{
+  max-width: 500px;
   width: 98vw;
   margin: 0 auto;
   border-radius: 5px;
